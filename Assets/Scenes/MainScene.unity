@@ -935,7 +935,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _maxSpeed: 5
-  _jumpHeight: 350
+  _jumpHeight: 1000
   _groundChecker: {fileID: 161552570}
   _groundLayer:
     serializedVersion: 2
